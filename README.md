@@ -10,5 +10,5 @@ O controle das Tarefas desse Projeto estão no Github :octocat:
 
 :computer: Nova Funcionalidade
 :up: Atualização
-:beatle: correção de Bug
+:beetle: correção de Bug
 :checkered_flag: Release
