@@ -1,3 +1,8 @@
-<h1>Estrutura de Projeto</h1>
+# Estrutura de Projeto
 
-<p>Modelo de portifolio puro</p>
+Modelo de portifolio puro
+
+## Tarefas
+
+O controle das Tarefas desse Projeto
+
