@@ -1,0 +1,21 @@
+https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use
+1- cola o cdn no head
+2 - @import no css
+2 - copia tag icone e cola no html
+
+https://www.webfx.com/tools/emoji-cheat-sheet/
+1 - procurar emoji
+2 - colar na metadata do readme ou comit comment
+
+https://fonts.google.com/
+1- adiciona o @import no css
+2 - chama o font-family e o nome da fonte que importei
+
+https://favicon.io/
+*icone do site
+1 - cola 4 links no head
+
+https://uigradients.com/#Inbox
+*gradiente de cores
+1- apenas copia o css code
+2- cola no css
