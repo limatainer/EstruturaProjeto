@@ -64,7 +64,7 @@ html{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #ED213A);
+  background-color: #ee28e4);
   color: #ffffff;
   font-family: var(--font-action);
   opacity: 0;
@@ -73,7 +73,7 @@ html{
 .hamburguer span::before {
   content: "";
   position: absolute;
-  border-right: 0.5rem solid #ED213A);
+  border-right: 0.5rem solid #ee28e4);
   border-top: 0.5rem solid transparent;
   border-left: 0.5rem solid transparent;
   border-bottom: 0.5rem solid transparent;
@@ -148,9 +148,9 @@ header {
   color: #fff;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
-  background: #ED213A;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #ee28e4;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #8d0186, #ee28e4);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #8d0186, #ee28e4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   padding: 1rem 3rem;
   border: none;
@@ -205,7 +205,7 @@ header {
 }
 
 .menu-link:hover {
-  color: #c54a4a;
+  color: #c54a96;
 }
 
 .social-media {
@@ -217,7 +217,7 @@ header {
 }
 
 .social-media i {
-  background-color: #c54a4a;
+  background-color: #c54a96;
   color: rgba(255, 255, 255, 1);
   height: 2.5rem;
   width: 2.5rem;
@@ -230,7 +230,7 @@ header {
 }
 
 .social-media i:hover {
-  background-color: #f04040;
+  background-color: #f04083;
 }
 
 .conhecimentos {
@@ -286,7 +286,7 @@ header {
   font-family: var(--font-primary);
   font-size: 3rem;
   color: #4b4b4b;
-  border-bottom: solid 3px #c54a4a;
+  border-bottom: solid 3px #c54a96;
   margin-bottom: 1.5rem;
 }
 
@@ -388,9 +388,9 @@ header {
 }
 
 .btn {
-  background: #ED213A;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #ee28e4;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #8d0186, #ee28e4);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #8d0186, #ee28e4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   font-family: var(--font-action);
   color: #eee;
   border-radius: 0.5rem;
@@ -534,9 +534,9 @@ header {
   position: absolute;
   top: -2.5rem;
   left: 2rem;
-  background: #ED213A;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #ee28e4;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #8d0186, #ee28e4);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #8d0186, #ee28e4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   padding: 0 3rem;
   color: #fff;
@@ -614,9 +614,9 @@ footer{
   bottom: 3rem;
   width: 3rem;
   height: 3rem;
-  background: #ED213A;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #ee28e4;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #8d0186, #ee28e4);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #8d0186, #ee28e4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   display: flex;
   justify-content: center;
