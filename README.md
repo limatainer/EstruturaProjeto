@@ -8,7 +8,6 @@ O controle das Tarefas desse Projeto estão no Github :octocat:
 
 ## Ícones
 
-<<<<<<< HEAD
 :computer: Novas Funcionalidades
 :up: Atualização de conteúdo
 :beetle: correção de Bugs
